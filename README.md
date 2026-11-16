@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Vision Labeler
+
+**Embryo Vision Labeler** is Embryo-Zero's fork of [cvat](https://github.com/cvat-ai/cvat), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![CVAT Community header](site/content/en/images/cvat_github_header.webp)](https://app.cvat.ai)
 # CVAT: Computer Vision Annotation Tool
 
